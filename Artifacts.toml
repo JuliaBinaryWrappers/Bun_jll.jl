@@ -1,0 +1,60 @@
+[[Bun]]
+arch = "aarch64"
+git-tree-sha1 = "c2454ffad01d98e5409b9ae89e0265a3f898ce36"
+os = "macos"
+
+    [[Bun.download]]
+    sha256 = "76d11c33a21d31d17196854bc2611c5cc912a790090003e649510ec7a0d53f07"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.aarch64-apple-darwin.tar.gz"
+[[Bun]]
+arch = "aarch64"
+git-tree-sha1 = "ef503ec659437668fb8c87e348ae8afa0b2197e2"
+libc = "glibc"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "e2d2787e26148d7f80c5b67e930a7abf49b818bc7c91813c24399c1451d402ae"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.aarch64-linux-gnu.tar.gz"
+[[Bun]]
+arch = "aarch64"
+git-tree-sha1 = "bf249a9bbe5cd715a2e6a1e465fc47801c282128"
+libc = "musl"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "924f5ad929a4084c8a76b79e5be2420905778b439363054f7db312e19fd498fa"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.aarch64-linux-musl.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "4b9504c5bcae911c82b720b53d4a8be77105ad0e"
+os = "macos"
+
+    [[Bun.download]]
+    sha256 = "417c53abcd83b03b08013875a646cb15de2bd7f8d4f599a5c64537d1265b1470"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.x86_64-apple-darwin.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "ae2ebcedeccf5e3bce66afed6ad545af73f1b416"
+libc = "glibc"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "75f67cb509c62bd9184f1065dc84be42cbd4d8ecd477eee258204bddb77c6f74"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.x86_64-linux-gnu.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "16e9e8c54379655603f175231a26eb0558e3017d"
+libc = "musl"
+os = "linux"
+
+    [[Bun.download]]
+    sha256 = "8881e444aa051fe941a4b4bede3e0acca77cec1e3daaa866f6ab9a53886e6844"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.x86_64-linux-musl.tar.gz"
+[[Bun]]
+arch = "x86_64"
+git-tree-sha1 = "d679a2247a0ac17ee9b061ba244e13ace04b1f8a"
+os = "windows"
+
+    [[Bun.download]]
+    sha256 = "27f603c0ba68c9f99650883039fce26e4de6e29470238753ef55b0bcb9259496"
+    url = "https://github.com/JuliaBinaryWrappers/Bun_jll.jl/releases/download/Bun-v1.2.11+0/Bun.v1.2.11.x86_64-w64-mingw32.tar.gz"
